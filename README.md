@@ -1,2 +1,2 @@
 # SoftClusteringFilter
-The implement of "Edge-preserving Image Filtering Based on Soft Clustering".
+The implementation of "Edge-preserving Image Filtering Based on Soft Clustering".
